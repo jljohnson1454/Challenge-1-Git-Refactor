@@ -20,7 +20,7 @@ https://jljohnson1454.github.io/Challenge-1-Git-Refactor/
 https://github.com/jljohnson1454/Challenge-1-Git-Refactor
 
 ### Screenshot:
-
+![alt-text](assets/images/websitescreenshot.png)
 
 ### Contribution
 Updated by Jacob Johnson
