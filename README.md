@@ -22,5 +22,9 @@ https://github.com/jljohnson1454/Challenge-1-Git-Refactor
 ### Screenshot:
 ![alt-text](assets/images/websitescreenshot.png)
 
+### License
+
+Provided by Xandromus: https://github.com/coding-boot-camp/urban-octo-telegram
+
 ### Contribution
 Updated by Jacob Johnson
